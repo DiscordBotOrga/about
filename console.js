@@ -6,5 +6,4 @@ function getConsoleLog(){
  console.log("Hello World 2"); 
 }
 
-
 console.log("TEST")
